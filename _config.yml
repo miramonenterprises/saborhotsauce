@@ -2,4 +2,4 @@ title: Sabor Hot Sauce
 description: Sabor! salsas are handmade in small batches in Austin, TX since 1981.
 baseurl: "/saborhotsauce"
 url: "https://miramonenterprises.github.io"
-theme: minima
+theme: jekyll-theme-slate
