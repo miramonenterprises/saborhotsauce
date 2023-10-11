@@ -6,7 +6,7 @@ title: Home
 # Sabor!
 
 Sabor! salsas are handmade in small batches in Austin, TX since 1981.
-![Sabor Salsa Image](sabor-image.jpg){: .centered}
+![Sabor Salsa Image](sabor-image.png){: .centered}
 
 
 ## Availability
