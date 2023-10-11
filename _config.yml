@@ -1,5 +1,5 @@
 title: Sabor Hot Sauce
 description: Sabor! salsas are handmade in small batches in Austin, TX since 1981.
-baseurl: "" # you might need to set this if you're using a project page
-url: "https://miramonenterprises.github.io/saborhotsauce/" # replace 'yourusername' with your GitHub username
-theme: tactile
+baseurl: "/saborhotsauce"
+url: "https://miramonenterprises.github.io"
+theme: slate
